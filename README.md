@@ -1,7 +1,7 @@
 # Jupiter
 **Jupiter** is an open source and modular **front-end framework** for developing fast and powerful **cross-platform** interfaces on Qt Quick and QML.
 
-**Note :** This framework is not yet complete and conceptually under development. So big changes might happened. If you intend to use this in your project, you should use a stable version because master change often.
+**Note :** This framework is not yet complete and conceptually under development. So big changes might happen. If you intend to use this in your project, you should use a stable version because master change often.
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
@@ -42,6 +42,3 @@ Just add into your project :) And go on!
 
 ## Contribution
 Bug fixes, docs, and enhancements welcome! Please let me know kambiz.ceo@gmail.com
-
-## **ToDo**
- * And more features...
